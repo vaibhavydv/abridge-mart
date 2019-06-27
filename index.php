@@ -15,16 +15,16 @@
     <!-- Necessary CSS Files -->
     <!-- <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700" rel="stylesheet">	
      	<!-- Google Font -->
-    <link href="./prosoft-Software Landing Page_files/bootstrap.min.css" rel="stylesheet">												<!-- bootstrap  -->
-    <link href="./prosoft-Software Landing Page_files/style.css" rel="stylesheet">														<!-- Template Main css  -->
-    <link href="./prosoft-Software Landing Page_files/jquery.bxslider.css" rel="stylesheet">											<!-- Client Logo Slider  -->
-    <link rel="stylesheet" type="text/css" href="./prosoft-Software Landing Page_files/slick.css">										<!-- Testimonial Slider -->
-    <link rel="stylesheet" type="text/css" href="./prosoft-Software Landing Page_files/slick-theme.css">									<!-- Testimonial Slider -->
-    <link rel="stylesheet" type="text/css" href="./prosoft-Software Landing Page_files/jquery.fancybox.css" media="screen">				<!-- Video Popup -->
-    <link rel="stylesheet" href="./prosoft-Software Landing Page_files/animate.css">														<!-- Wow Animation CSS -->
+    <link href="./assets/bootstrap.min.css" rel="stylesheet">												<!-- bootstrap  -->
+    <link href="./assets/style.css" rel="stylesheet">														<!-- Template Main css  -->
+    <link href="./assets/jquery.bxslider.css" rel="stylesheet">											<!-- Client Logo Slider  -->
+    <link rel="stylesheet" type="text/css" href="./assets/slick.css">										<!-- Testimonial Slider -->
+    <link rel="stylesheet" type="text/css" href="./assets/slick-theme.css">									<!-- Testimonial Slider -->
+    <link rel="stylesheet" type="text/css" href="./assets/jquery.fancybox.css" media="screen">				<!-- Video Popup -->
+    <link rel="stylesheet" href="./assets/animate.css">														<!-- Wow Animation CSS -->
 
 	<!--RESPONSIVE TAB -->
-        <link rel="stylesheet" type="text/css" href="./prosoft-Software Landing Page_files/easy-responsive-tabs.css">
+        <link rel="stylesheet" type="text/css" href="./assets/easy-responsive-tabs.css">
     
   <style type="text/css">.fancybox-margin{margin-right:17px;}</style></head>
   <body>
@@ -36,7 +36,7 @@
           <div class="container">
 				<div class="row">
              <div class="col-lg-3 col-md-3">
-               <div class="logo"><a href="#"><img width="164" height="39" src="./prosoft-Software Landing Page_files/logo3.png" alt="logo"></a></div>
+               <div class="logo"><a href="#"><img width="164" height="39" src="./assets/logo3.png" alt="logo"></a></div>
                  <div id="menu-icon"><span></span><span></span><span></span></div>
                  <div class="clear"></div>
 
@@ -61,7 +61,7 @@
                 <h1 class="wow fadeInDown" style="visibility: visible; animation-name: fadeInDown;">Best Application For Inventory</h1>
                 <p class="wow fadeInDown" style="visibility: visible; animation-name: fadeInDown;">Increase your sales and keep track of every unit with our Abridge Mart, order fulfillment, and inventory control software. </p>
                 <div class="bnts wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
-                   <a href="http://localhost:8080/stock/" class="btn2">Launch Now</a>
+                   <a href="http://localhost/abridge-mart/app/" class="btn2">Launch Now</a>
                 </div>
              </div>
           </div>
@@ -69,7 +69,7 @@
           <div class="row">
             <div class="col-lg-12">
               <div class="toping ">
-                <img class="img-responsive cenetr-block" src="./prosoft-Software Landing Page_files/topimg.png" alt="hero-image">
+                <img class="img-responsive cenetr-block" src="./assets/topimg.png" alt="hero-image">
               </div>
             </div>
           </div>
@@ -93,7 +93,7 @@
           <div class="row">
           <div class="col-lg-4 col-md-4 col-sm-6 module">
              <div class="f-box wow fadeInUp" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: fadeInUp;">
-               <div class="f-img"><img src="./prosoft-Software Landing Page_files/icon1.png" alt="f1"></div>
+               <div class="f-img"><img src="./assets/icon1.png" alt="f1"></div>
                <a href="app/">Friendly Admin</a>
               
              </div>
@@ -101,7 +101,7 @@
           
           <div class="col-lg-4 col-md-4 col-sm-6 module">
              <div class="f-box wow fadeInUp" data-wow-duration="2s" style="visibility: visible; animation-duration: 2s; animation-name: fadeInUp;">
-               <div class="f-img"><img src="./prosoft-Software Landing Page_files/icon2.png" alt="f2"></div>
+               <div class="f-img"><img src="./assets/icon2.png" alt="f2"></div>
                <a href="app/">Well Documented</a>
               
              </div>
@@ -109,7 +109,7 @@
           
           <div class="col-lg-4 col-md-4 col-sm-6 module">
              <div class="f-box wow fadeInUp" data-wow-duration="2s" style="visibility: visible; animation-duration: 2s; animation-name: fadeInUp;">
-               <div class="f-img"><img src="./prosoft-Software Landing Page_files/icon3.png" alt="f3"></div>
+               <div class="f-img"><img src="./assets/icon3.png" alt="f3"></div>
                <a href="app/">Highly Customizable</a>
              </div>
           </div>
@@ -117,7 +117,7 @@
           
           <div class="col-lg-4 col-md-4 col-sm-6 module">
              <div class="f-box wow fadeInUp" data-wow-duration="2s" style="visibility: visible; animation-duration: 2s; animation-name: fadeInUp;">
-               <div class="f-img"><img src="./prosoft-Software Landing Page_files/icon5.png" alt="f5"></div>
+               <div class="f-img"><img src="./assets/icon5.png" alt="f5"></div>
                <a href="app/">Responsive Design</a>
                
              </div>
@@ -125,7 +125,7 @@
           
           <div class="col-lg-4 col-md-4 col-sm-6 module">
              <div class="f-box wow fadeInUp" data-wow-duration="2s" style="visibility: visible; animation-duration: 2s; animation-name: fadeInUp;">
-               <div class="f-img"><img src="./prosoft-Software Landing Page_files/icon6.png" alt="f6"></div>
+               <div class="f-img"><img src="./assets/icon6.png" alt="f6"></div>
                <a href="app/">Secure</a>
               
           </div>
@@ -143,7 +143,7 @@
           <div class="col-xs-12 col-sm-12 col-md-6 module">
           	<div class="content-area">
                <div class="left-heading">
-                 <span> <img class="wow fadeInDown" src="./prosoft-Software Landing Page_files/eq-icon.png" alt="icon-image" style="visibility: visible; animation-name: fadeInDown;"></span>
+                 <span> <img class="wow fadeInDown" src="./assets/eq-icon.png" alt="icon-image" style="visibility: visible; animation-name: fadeInDown;"></span>
                  <h2 class="wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Amazing dashboard</h2>
                </div>
                <p class="wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Use the cloud-based inventory tracking Web Application to perform inventory audits, avoid stockouts and maintain inventory levels. Real-time data and analytics keep you in charge of your inventory at all times.
@@ -185,7 +185,7 @@
           </div>
           <div class="col-xs-12 col-sm-12 col-md-6 module">
           	<div class="img3">
-                <img class="img-responsive " src="./prosoft-Software Landing Page_files/dashboard.png" alt="icon-image">
+                <img class="img-responsive " src="./assets/dashboard.png" alt="icon-image">
              </div>
           </div>
         </div>
@@ -204,7 +204,7 @@
           <div class="row">
           <div class="col-xs-12 col-sm-12 col-md-5 col-md-push-7">
              <div class="left-heading">
-                <span> <img src="./prosoft-Software Landing Page_files/pc.png" alt="secton-image"></span>
+                <span> <img src="./assets/pc.png" alt="secton-image"></span>
                 <h2>Beautyful features</h2>
                 <p class="p">
                 Use the cloud-based inventory tracking Web Application to perform inventory audits, avoid stockouts and maintain inventory levels. Real-time data and analytics keep you in charge of your inventory at all times.
@@ -217,7 +217,7 @@
           
           <div class="col-xs-12 col-sm-12 col-md-7 col-md-pull-5">
              <div class="two-colom-image ">
-                <img class="img-responsive" src="./prosoft-Software Landing Page_files/img1.png" alt="img1">
+                <img class="img-responsive" src="./assets/img1.png" alt="img1">
              </div>
           </div>
           
@@ -245,15 +245,15 @@
                     <h2 class="resp-accordion hor_1 resp-tab-active" role="tab" aria-controls="hor_1_tab_item-0" style="border-color: rgb(193, 193, 193); background: none;"><span class="resp-arrow"></span>Details</h2><div class="resp-tab-content hor_1 resp-tab-content-active" aria-labelledby="hor_1_tab_item-0" style="display:block">
                         <p><!--vertical Tabs-->
                         </p>
-                        <img class="tab-screen-image" src="./prosoft-Software Landing Page_files/screen-tab-1.png" alt="screen-image">
+                        <img class="tab-screen-image" src="./assets/screen-tab-1.png" alt="screen-image">
                         
                     </div>
                     <h2 class="resp-accordion hor_1" role="tab" aria-controls="hor_1_tab_item-1" style="border-color: rgb(193, 193, 193);"><span class="resp-arrow"></span>kit contains</h2><div class="resp-tab-content hor_1" aria-labelledby="hor_1_tab_item-1" style="border-color: rgb(193, 193, 193);">
-                       <img class="tab-screen-image" src="./prosoft-Software Landing Page_files/screen-tab-2.png" alt="screen-image">
+                       <img class="tab-screen-image" src="./assets/screen-tab-2.png" alt="screen-image">
     
                     </div>
                     <h2 class="resp-accordion hor_1" role="tab" aria-controls="hor_1_tab_item-2" style="border-color: rgb(193, 193, 193);"><span class="resp-arrow"></span>qa</h2><div class="resp-tab-content hor_1" aria-labelledby="hor_1_tab_item-2" style="border-color: rgb(193, 193, 193);">
-                        <img class="tab-screen-image" src="./prosoft-Software Landing Page_files/screen-tab-3.png" alt="screen-image">
+                        <img class="tab-screen-image" src="./assets/screen-tab-3.png" alt="screen-image">
                     </div>
                     <h2 class="resp-accordion hor_1" role="tab" aria-controls="hor_1_tab_item-3" style="border-color: rgb(193, 193, 193);"><span class="resp-arrow"></span>reviews</h2><div class="resp-tab-content hor_1" aria-labelledby="hor_1_tab_item-3" style="border-color: rgb(193, 193, 193);">
                         <p>
@@ -261,7 +261,7 @@
     
                             
                         </p>
-                        <img class="tab-screen-image" src="./prosoft-Software Landing Page_files/screen-tab-4.png" alt="screen-image">
+                        <img class="tab-screen-image" src="./assets/screen-tab-4.png" alt="screen-image">
                     </div>
                 </div>
             </div>
@@ -285,14 +285,14 @@
           <div class="col-lg-12 col-md-12 col-sm-12">
              <div id="dg-container" class="dg-container">
 				<div class="dg-wrapper">
-					<a href="http://kalanidhithemes.com/live-preview/landing-page/prosoft-software-landing-page-html/defoult/index.html#" class="dg-center" style="opacity: 1; visibility: visible;"><img src="./prosoft-Software Landing Page_files/screen1.png" alt="image01"></a>
-					<a href="http://kalanidhithemes.com/live-preview/landing-page/prosoft-software-landing-page-html/defoult/index.html#" style="opacity: 1; visibility: visible; transform: translateX(350px) translateZ(-400px) rotateY(-0deg);"><img src="./prosoft-Software Landing Page_files/screen2.png" alt="image01"></a>
-					<a href="http://kalanidhithemes.com/live-preview/landing-page/prosoft-software-landing-page-html/defoult/index.html#" style="opacity: 1; visibility: visible; transform: translateX(-350px) translateZ(-400px) rotateY(0deg);"><img src="./prosoft-Software Landing Page_files/screen3.png" alt="image01"></a>
+					<a href="http://kalanidhithemes.com/live-preview/landing-page/prosoft-software-landing-page-html/defoult/index.html#" class="dg-center" style="opacity: 1; visibility: visible;"><img src="./assets/screen1.png" alt="image01"></a>
+					<a href="http://kalanidhithemes.com/live-preview/landing-page/prosoft-software-landing-page-html/defoult/index.html#" style="opacity: 1; visibility: visible; transform: translateX(350px) translateZ(-400px) rotateY(-0deg);"><img src="./assets/screen2.png" alt="image01"></a>
+					<a href="http://kalanidhithemes.com/live-preview/landing-page/prosoft-software-landing-page-html/defoult/index.html#" style="opacity: 1; visibility: visible; transform: translateX(-350px) translateZ(-400px) rotateY(0deg);"><img src="./assets/screen3.png" alt="image01"></a>
 
                  </div>
                  <nav>	
-					<span class="dg-prev"><img src="./prosoft-Software Landing Page_files/left.png"></span>
-					<span class="dg-next"><img src="./prosoft-Software Landing Page_files/right.png"></span>
+					<span class="dg-prev"><img src="./assets/left.png"></span>
+					<span class="dg-next"><img src="./assets/right.png"></span>
 				</nav>
                </div>     
           </div>
@@ -319,7 +319,7 @@
        <div class="row pdtop2">
           <div class="col-lg-4 col-md-4 col-sm-4 module">
              <div class="team-box wow fadeIn" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: fadeIn;">
-               <div class="team-photo"><img src="./prosoft-Software Landing Page_files/vaibhav.jpg" alt="Vaibhav Yadav"></div>
+               <div class="team-photo"><img src="./assets/vaibhav.jpg" alt="Vaibhav Yadav"></div>
                <div class="team-ttl">
                  <span>Vaibhav Yadav</span>
                  <p>Website Developer&amp;</p>
@@ -341,7 +341,7 @@
           
           <div class="col-lg-4 col-md-4 col-sm-4 module">
              <div class="team-box wow fadeIn" data-wow-duration="2s" style="visibility: visible; animation-duration: 2s; animation-name: fadeIn;">
-               <div class="team-photo"><img src="./prosoft-Software Landing Page_files/shankar.jpg" alt="Shankar Prasad"></div>
+               <div class="team-photo"><img src="./assets/shankar.jpg" alt="Shankar Prasad"></div>
                <div class="team-ttl">
                  <span>Shankar Prasad</span>
                  <p>Frontend Management</p>
@@ -363,7 +363,7 @@
 
            <div class="col-lg-4 col-md-4 col-sm-4 module">
              <div class="team-box wow fadeIn" data-wow-duration="3s" style="visibility: visible; animation-duration: 3s; animation-name: fadeIn;">
-               <div class="team-photo"><img src="./prosoft-Software Landing Page_files/aliyas.jpg" alt="Aliyas Ansari"></div>
+               <div class="team-photo"><img src="./assets/aliyas.jpg" alt="Aliyas Ansari"></div>
                <div class="team-ttl">
                  <span>Aliyas Ansari</span>
                  <p>Web Designer</p>
@@ -447,19 +447,19 @@ software</p>
      
      <!-- footer End-->     
 
-	<script src="./prosoft-Software Landing Page_files/jquery-1.9.1.min.js.download"></script> 													<!-- For screen gallery tab -->
-    <script src="./prosoft-Software Landing Page_files/jquery.min.js.download"></script>														<!-- librery --> 
-    <script src="./prosoft-Software Landing Page_files/bootstrap.min.js.download"></script>														<!-- bootstrap --> 
-    <script src="./prosoft-Software Landing Page_files/jquery.bxslider.min.js.download"></script>												<!-- For Logos Slider --> 
-    <script src="./prosoft-Software Landing Page_files/slick.js.download" type="text/javascript" charset="utf-8"></script>						<!-- For Testimonial Slider --> 
-	<script type="text/javascript" src="./prosoft-Software Landing Page_files/jquery.fancybox.pack.js.download"></script>						<!-- For Video Pop up --> 
-    <script type="text/javascript" src="./prosoft-Software Landing Page_files/modernizr.custom.53451.js.download"></script>						<!-- For Screenshot Details --> 
-    <script type="text/javascript" src="./prosoft-Software Landing Page_files/jquery.gallery.js.download"></script>								<!-- For Screenshot Details --> 
-    <script src="./prosoft-Software Landing Page_files/easyResponsiveTabs.js.download"></script>												<!-- For screen gallery tab -->
-    <script src="./prosoft-Software Landing Page_files/wow.min.js.download"></script>															<!--Wow animation js -->
+	<script src="./assets/jquery-1.9.1.min.js.download"></script> 													<!-- For screen gallery tab -->
+    <script src="./assets/jquery.min.js.download"></script>														<!-- librery --> 
+    <script src="./assets/bootstrap.min.js.download"></script>														<!-- bootstrap --> 
+    <script src="./assets/jquery.bxslider.min.js.download"></script>												<!-- For Logos Slider --> 
+    <script src="./assets/slick.js.download" type="text/javascript" charset="utf-8"></script>						<!-- For Testimonial Slider --> 
+	<script type="text/javascript" src="./assets/jquery.fancybox.pack.js.download"></script>						<!-- For Video Pop up --> 
+    <script type="text/javascript" src="./assets/modernizr.custom.53451.js.download"></script>						<!-- For Screenshot Details --> 
+    <script type="text/javascript" src="./assets/jquery.gallery.js.download"></script>								<!-- For Screenshot Details --> 
+    <script src="./assets/easyResponsiveTabs.js.download"></script>												<!-- For screen gallery tab -->
+    <script src="./assets/wow.min.js.download"></script>															<!--Wow animation js -->
     
-    <script src="./prosoft-Software Landing Page_files/retina.js.download"></script>                      <!-- Retina js -->
-	<script src="./prosoft-Software Landing Page_files/retina.min.js.download"></script>                  <!-- Retina js -->
+    <script src="./assets/retina.js.download"></script>                      <!-- Retina js -->
+	<script src="./assets/retina.min.js.download"></script>                  <!-- Retina js -->
 
     <script>
 	$(document).ready(function(){

@@ -34,7 +34,7 @@
 <div class="login-box">
   <div class="login-logo">
     <center>
-    <img src="http://localhost:8080/stock/logo.png" width="150px" height="150px">
+    <img src="http://localhost/abridge-mart/app/logo.png" width="150px" height="150px">
     </center>
     <a href="<?php echo base_url('auth'); ?>"><b></b></a>
   </div>
